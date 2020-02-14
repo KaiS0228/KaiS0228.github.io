@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Quotes</title>
+</head>
+<body>
+  <p>Oofer 1 <q>Oooooooooooooooooooooooooof </q></p>
+  <p>Oofer 2 <q>Ooooooooooooooooof </q></p>
+  <p>Oofer 1 <q>Ooooooooooooooooooof </q></p>
+  <p><em>Oooooooooooooooooooooooof</em></p>
+  <br><br><br>
+
+  <blockquote>
+    <p>Ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooof </p>
+    <footer>Oof <cite>Oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooof</cite></footer>
+  </blockquote>
+</body>
+</html>
