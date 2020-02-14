@@ -1,0 +1,19 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Verbatim</title>
+</head>
+<body>
+  <p>Oof <code> Oof </code> Oof <code>Oof</code> Oof <kbd> Oof </kbd> Oof <kbd>Oof</kbd>.</p>
+  <p><samp>Oof</samp></p>
+  <pre>
+       O      O     O
+      O O     O     O 
+     O   O    O O O O 
+    O  O  O   O     O 
+    F     F   F     F 
+  </pre>
+</body>
+</html>
